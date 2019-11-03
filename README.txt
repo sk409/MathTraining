@@ -1,14 +1,3 @@
-ŠeƒtƒHƒ‹ƒ_‚Ìà–¾
-
-EJTPC
-UnityƒvƒƒWƒFƒNƒg‚ªŠi”[‚³‚ê‚Ä‚¢‚éƒtƒHƒ‹ƒ_‚Å‚·
-
-EInstructions
-ƒQ[ƒ€‚Ìà–¾‚ÉŠÖ‚·‚éƒtƒ@ƒCƒ‹‚ªŠi”[‚³‚ê‚Ä‚¢‚éƒtƒHƒ‹ƒ_‚Å‚·B
-‚±‚ÌƒtƒHƒ‹ƒ_‚Ì’†‚É‚ ‚éinstructions.html‚©‚çƒQ[ƒ€‚Ìà–¾‚ðŠm”F‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-‚±‚Ìinstructions.html‚ÍChrome‚Ìƒtƒ‹ƒXƒNƒŠ[ƒ“‚Å‚Ì‰{——‚ð‘z’è‚µ‚Ä‚¢‚Ü‚·B
-instructions.html‚Ì‘¼‚Éothers‚Æ‚¢‚¤ƒtƒHƒ‹ƒ_‚ª‚ ‚è‚Ü‚·‚ªA‚±‚ê‚Íinstructions.html‚ÅŽg—p‚µ‚Ä‚¢‚é‘fÞ‚ðŠi”[‚µ‚Ä‚¢‚Ü‚·B
-
-EGame
-ƒQ[ƒ€‚ÌŽÀsŠÂ‹«‚ªŠi”[‚³‚ê‚Ä‚¢‚éƒtƒHƒ‹ƒ_‚Å‚·B
-‚±‚ÌƒtƒHƒ‹ƒ_‚Ì’†‚ÌJTPC.exe‚©‚çƒQ[ƒ€‚ðƒvƒŒƒC‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
+<h1>MathTraining</h1>
+<p>å¹´é…ã®æ–¹å‘ã‘ã®è„³ãƒˆãƒ¬ã‚²ãƒ¼ãƒ ã§ã™ã€‚</p>
+<a href="https://youtu.be/SoNRZKuwQ-Q">ã“ã¡ã‚‰ã‹ã‚‰å‹•ä½œã‚’ç¢ºèªã§ãã¾ã™ã€‚</a>
