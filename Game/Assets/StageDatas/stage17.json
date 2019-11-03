@@ -1,0 +1,66 @@
+{
+    "moves": 2,
+    "operands": [
+        {
+            "value": 4,
+            "position": {"x": 0, "y": 0 }
+        },
+        {
+            "value": 9,
+            "position": {"x": 2, "y": 0 }
+        },
+        {
+            "value": 10,
+            "position": {"x": 4, "y": 0 }
+        },
+        {
+            "value": 8,
+            "position": {"x": 0, "y": 1 }
+        },
+        {
+            "value": 4,
+            "position": {"x": 3, "y": 1 }
+        },
+        {
+            "value": 8,
+            "position": {"x": 4, "y": 1 }
+        },
+        {
+            "value": 4,
+            "position": {"x": 0, "y": 2 }
+        },
+        {
+            "value": 13,
+            "position": {"x": 2, "y": 2 }
+        },
+        {
+            "value": 2,
+            "position": {"x": 2, "y": 3 }
+        }
+    ],
+    "operators": [
+        {
+            "type": 0,
+            "position": {"x": 1, "y": 0 }
+        },
+        {
+            "type": 0,
+            "position": {"x": 1, "y": 1 }
+        },
+        {
+            "type": 0,
+            "position": {"x": 1, "y": 2 }
+        }
+    ],
+    "equals": [
+        {
+            "position": {"x": 3, "y": 0 }
+        },
+        {
+            "position": {"x": 2, "y": 1 }
+        },
+        {
+            "position": {"x": 3, "y": 2 }
+        }
+    ]
+}

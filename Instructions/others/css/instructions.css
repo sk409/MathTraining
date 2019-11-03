@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+body {
+    width: 100vw;
+    padding: 32px;
+    background: #f0f0f0;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+header h1 {
+    text-align: center;
+}
+
+header small {
+    display: block;
+    width: 100%;
+    text-align: right;
+}
+
+#container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #e0e0e0;
+    padding: 32px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.4);
+}
+
+#eyecatch {
+    margin-top: 32px;
+    margin-bottom: 48px;
+    text-align: center;
+}
+
+#table-of-contents {
+    background: #e0e0e0;
+    border: 1px solid #b0b0b0;
+    margin: 48px auto 48px auto;
+    padding: 16px;
+    width: 50vw;
+}
+
+#table-of-contents h3 {
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+#answer-links {
+    margin-top: 32px;
+}
+
+#answer-links li {
+    margin-top: 16px;
+}
+
+.section-title-underline {
+    height: 2px;
+    background: #3498db;
+    border: none;
+    margin-bottom: 16px;
+}
+
+.media {
+    width: 50vw;
+    height: 33vw;
+    margin-top: 16px;
+}
+
+.instruction-section {
+    margin-top: 64px;
+    margin-bottom: 32px;
+}
+
+.sub-section-title {
+    margin-top: 24px;
+    margin-bottom: 8px;
+    padding: 16px;
+    background: #DCDBE0;
+}
